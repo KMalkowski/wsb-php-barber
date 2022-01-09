@@ -2,7 +2,7 @@
 
 1. Go to classes/db.php file and change db configuration according to your MySQL database setup.
 
-#Authors
+# Authors
 
 1. Krzysztof Malkowski
 2. Jakub Maćkowiak
